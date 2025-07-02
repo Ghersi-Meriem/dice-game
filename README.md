@@ -14,4 +14,5 @@ This is a simple JavaScript project where two dice are rolled randomly every tim
 - Page loads → Two random numbers between 1 and 6 are generated.
 - The dice images update accordingly.
 - A message declares the winner or a draw.
+- ## link to the game (https://ghersi-meriem.github.io/dice-game/)
 
